@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  my-react-app:
+    image: my-react-app:latest  # Replace with your image name and tag
+    ports:
+      - "80:80"  # Map container port 80 to host port 80
+    restart: always  # Restart container automatically if it stops

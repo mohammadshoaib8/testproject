@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define variables
-REMOTE_USER="your_username"
-REMOTE_HOST="your_server_ip"
+REMOTE_USER="ubuntu"
+REMOTE_HOST="54.169.238.206"
 IMAGE_NAME="my-react-app"
 IMAGE_TAG="latest"
 

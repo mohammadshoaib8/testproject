@@ -1,0 +1,15 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "scripts": {
+    "start": "your-start-command",
+    "build": "your-build-command"
+  },
+  "dependencies": {
+    // Add dependencies here
+  },
+  "devDependencies": {
+    // Add devDependencies here
+  }
+}
